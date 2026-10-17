@@ -140,7 +140,7 @@ relacionada con la infraestructura de red.
 ## Conclusiones P3:
 - Danna Paola Pacheco Marquez:
 En esta práctica recordé nuevamente cómo utilizar Python, sus elementos para organizar y representar la información de los dispositivos de una red mediante variables, diccionarios, listas, funciones y estructuras de control.
-Además, ahora puedo decir con toda seguridad que estas herramientas facilitan la administración de los dispositivos y permiten automatizar tareas; todos estos conocimientos serán útiles para desarrollar programas más avanzados relacionados con la configuración, el monitoreo y la automatización de redes para seguir con el proyecto integrador.
+Además, ahora puedo decir que estas herramientas facilitan la administración de los dispositivos y permiten automatizar tareas, todos estos conocimientos serán útiles para desarrollar programas más avanzados relacionados con la configuración, el monitoreo y la automatización de redes para seguir con el proyecto integrador.
 
 - Alan Jovany Cruz Pérez:
 Durante esta práctica aprendí a utilizar conceptos fundamentales de Python como variables, tipos de datos, diccionarios, listas, ciclos, condicionales y funciones, además, comprendí cómo representar dispositivos de red mediante estructuras de datos organizadas y fáciles de administrar.
